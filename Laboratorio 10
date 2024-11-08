@@ -238,6 +238,3 @@ myRBTree.printAll();
 
 console.log("Mostrar inhorden");
 myRBTree.showinhorden();
-
-console.log("Mostrar Búsqueda");
-myRBTree.buscar(4)
